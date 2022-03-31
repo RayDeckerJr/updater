@@ -3,3 +3,23 @@
 /data/test.zip https://wordpress.org/latest.zip
 
 <End of Version>
+
+<Version: 1.02>
+
+/data/Actors.json https://raydeckerjr.dev/Updater/Actors.json
+/data/Animations.json https://raydeckerjr.dev/Updater/Animations.json 
+/data/Armors.json https://raydeckerjr.dev/Updater/Armors.json 
+/data/Classes.json https://raydeckerjr.dev/Updater/Classes.json 
+/data/CommonEvents.json https://raydeckerjr.dev/Updater/CommonEvents.json 
+/data/Enemies.json https://raydeckerjr.dev/Updater/Enemies.json 
+/data/Items.json https://raydeckerjr.dev/Updater/Items.json 
+/data/Map001.json https://raydeckerjr.dev/Updater/Map001.json 
+/data/MapInfos.json https://raydeckerjr.dev/Updater/MapInfos.json 
+/data/Skills.json https://raydeckerjr.dev/Updater/Skills.json 
+/data/States.json https://raydeckerjr.dev/Updater/States.json 
+/data/System.json https://raydeckerjr.dev/Updater/System.json 
+/data/Tilesets.json https://raydeckerjr.dev/Updater/Tilesets.json 
+/data/Troops.json https://raydeckerjr.dev/Updater/Troops.json 
+/data/Weapons.json https://raydeckerjr.dev/Updater/Weapons.json  
+
+<End of Version>
